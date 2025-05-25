@@ -1,9 +1,9 @@
 👋 Hi, I’m ScarFace
 👀 I’m interested in gaming
-🌱 I’m currently learning c#
-💞️ I’m looking to collaborate on nothing
-📫 How to reach me,u don't
-😄 Pronouns: tic/tac/toe
+🌱 I’m currently learning javascript
+💞️ I’m looking to collaborate with no one
+📫 How to reach me, u don't
+😄 Pronouns: he/him
 ⚡ Fun fact: i program
 
 <!---
